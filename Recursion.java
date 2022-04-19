@@ -17,7 +17,7 @@ import java.util.Scanner;
 
 class Recursion {
     /**
-     * Declaring constant for console hourglassFormatting.
+     * Declaring constant for console formatting.
      */
     private static final String CONSOLE_SEPARATOR =
         "--------------------------";
