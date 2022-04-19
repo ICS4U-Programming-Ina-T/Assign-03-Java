@@ -145,11 +145,11 @@ class Recursion {
 
             } else {
                 // catches negative numbers
-                System.out.println("Value must be greater than 0.");
+                System.out.println("\nValue must be greater than 0.");
             }
         } catch (IllegalArgumentException exception) {
             // catches invalid strings
-            System.out.println("Value is invalid!");
+            System.out.println("\nValue is invalid!");
         }
     }
 }
