@@ -115,7 +115,7 @@ class Recursion {
                         newNum++;
                     }
 
-                    // converts list of altered strings to an array
+                    // converts list with hourglass pattern to an array
                     starArray = starList.toArray(new String[0]);
 
                     // adds the hourglass string to the output file
