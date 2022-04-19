@@ -72,7 +72,7 @@ class Recursion {
         int zero = 0;
         int newNum = 1;
 
-        System.out.println("This program will create"
+        System.out.println("This program will create "
             + "an hourglass pattern of stars based"
             + "on the entered integer.\n");
 
